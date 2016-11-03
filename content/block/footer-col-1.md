@@ -1,5 +1,6 @@
 ####Anax Flat
 
-To build websites based on markup documents and configuration in YAML.
 
-[Get going](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat).
+Att bygga hemsidor baserade på markup dokument och YAML.
+
+[Kom igång](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat).

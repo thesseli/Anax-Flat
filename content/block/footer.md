@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2016 [Therese Eriksson](#) (ther16@student.bth.se)
 
 * [License](license)
 * [Cookies](cookies)

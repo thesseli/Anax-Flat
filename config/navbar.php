@@ -34,7 +34,7 @@ return [
             ],
 
             "test" => [
-                "text"  => t("Test"),
+                "text"  => t("Testsida"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testsida"),
             ],

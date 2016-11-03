@@ -24,7 +24,7 @@ _kursiv text_
 ---
 views:
     byline:
-        region: after-main
+        region: main
         template: default/content
         sort: 1
         data:

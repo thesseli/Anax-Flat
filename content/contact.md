@@ -1,4 +1,4 @@
-Contact
+Kontakt
 ==============================================
 
-Any questions about this site can be emailed to [Mikael Roos](https://mikaelroos.se) on (mos@dbwebb.se).
+Frågor eller funderingar kan skickas till [Therese Eriksson](#) on (ther16@student.bth.se).
